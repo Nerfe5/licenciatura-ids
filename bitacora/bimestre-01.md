@@ -12,7 +12,7 @@
 
 ## ✅ Entregas
 
-- Foros 1, 2 (primera etapa) y 3, con retroalimentación a compañeros.
+- Foros 1, 2 y 3, con retroalimentación a compañeros.
 - Tareas de las semanas 2, 4, 6 y 7 en Word y PDF con el formato institucional.
 - Retroalimentación de la Tarea 2: 8.8, con dos observaciones que se corrigieron en las siguientes entregas.
 

@@ -41,7 +41,7 @@ Distribución uniforme, retro en 24h, no expone información laboral, y encaja c
 
 - [x] Foro 1 (semana 1)
 - [x] Tarea asesor virtual (semana 2)
-- [ ] Foro 2 (semana 3) — primera etapa publicada; falta la segunda etapa
+- [x] Foro 2 (semana 3)
 - [x] Tarea asesor virtual (semana 4)
 - [x] Foro 3 (semana 5)
 - [x] Tarea semana 6
