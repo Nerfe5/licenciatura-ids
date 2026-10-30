@@ -1,6 +1,6 @@
 # 🎓 Licenciatura en Ingeniería en Desarrollo de Software
 
-![Institución](https://img.shields.io/badge/En%20línea-blueviolet) ![Duración](https://img.shields.io/badge/Duración-36%20meses-orange) ![Progreso](https://img.shields.io/badge/Bimestre-1%2F18-blue)
+![Institución](https://img.shields.io/badge/En%20línea-blueviolet) ![Duración](https://img.shields.io/badge/Duración-36%20meses-orange) ![Progreso](https://img.shields.io/badge/Bimestre-2%2F18-blue)
 
 > Bitácora central de mi carrera: 40 asignaturas, 18 bimestres, 3 años. Empecé desde cero en programación el 31 de agosto de 2026.
 
@@ -11,7 +11,7 @@
 Este repo es el **panorama general** — no contiene código ni tareas de materias específicas, esas viven cada una en su propio repositorio.
 
 - **`modalidades/`** — un archivo por materia con la modalidad de evaluación elegida y por qué.
-- **`bitacora/`** — registro de cierre de cada bimestre: calificaciones, dificultades, aprendizajes.
+- **`bitacora/`** — registro de cierre de cada bimestre: calificaciones, dificultades, aprendizajes. Ya está el [bimestre 1](bitacora/bimestre-01.md).
 
 ---
 
@@ -22,8 +22,8 @@ Este repo es el **panorama general** — no contiene código ni tareas de materi
 
 | Bimestre | Materias | Repo |
 |---|---|---|
-| 1 🔄 | Introducción a las Tecnologías de la Información, *(pendiente)* | [introduccion-tecnologias-informacion](https://github.com/Nerfe5/introduccion-tecnologias-informacion) |
-| 2 | *(pendiente)* | — |
+| 1 ✅ (100 %) | Introducción a las Tecnologías de la Información | [introduccion-tecnologias-informacion](https://github.com/Nerfe5/introduccion-tecnologias-informacion) |
+| 2 🔄 | Introducción a la Programación | [introduccion-programacion](https://github.com/Nerfe5/introduccion-programacion) |
 | 3 | *(pendiente)* | — |
 | 4 | *(pendiente)* | — |
 | 5 | *(pendiente)* | — |
